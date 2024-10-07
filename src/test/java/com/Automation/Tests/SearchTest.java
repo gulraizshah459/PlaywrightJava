@@ -1,6 +1,6 @@
-package com.Mercari.Tests;
+package com.Automation.Tests;
 
-import com.Mercari.Base.BaseClass;
+import com.Automation.Base.BaseClass;
 import org.testng.annotations.*;
 
 public class SearchTest extends BaseClass {

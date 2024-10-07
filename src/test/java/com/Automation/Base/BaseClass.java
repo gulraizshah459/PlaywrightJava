@@ -1,7 +1,7 @@
-package com.Mercari.Base;
+package com.Automation.Base;
 
-import com.Mercari.DriverFactory.PlaywrightBrowserManager;
-import com.Mercari.Pages.SearchPageRepo;
+import com.Automation.DriverFactory.PlaywrightBrowserManager;
+import com.Automation.Pages.SearchPageRepo;
 import com.microsoft.playwright.Page;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;

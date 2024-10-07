@@ -3,7 +3,7 @@
 <suite name="Mercari Test Suite">
     <test name="Search Tests">
         <classes>
-            <class name="com.Mercari.Tests.SearchTest"/>
+            <class name="com.Automation.Tests.SearchTest"/>
         </classes>
     </test> <!-- Test -->
 </suite> <!-- Suite -->

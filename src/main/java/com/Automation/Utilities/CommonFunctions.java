@@ -1,4 +1,4 @@
-package com.Mercari.Utilities;
+package com.Automation.Utilities;
 
 import com.microsoft.playwright.Locator;
 import com.microsoft.playwright.Page;

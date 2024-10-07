@@ -1,12 +1,10 @@
-package com.Mercari.Pages;
+package com.Automation.Pages;
 
 import com.microsoft.playwright.Locator;
 import com.microsoft.playwright.Page;
 import org.testng.Assert;
 
-import java.util.List;
-
-import static com.Mercari.Utilities.CommonFunctions.*;
+import static com.Automation.Utilities.CommonFunctions.*;
 
 public class SearchPageRepo {
     Page page;
