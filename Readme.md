@@ -1,6 +1,6 @@
-# Playwright Automation Framework for Mercari
+# Playwright Automation Framework
 
-This project is a Playwright-based automation framework designed to test the Mercari website (https://jp.mercari.com/). It uses Java as the programming language, TestNG as the test runner, and Maven as the build tool.
+This project is a Playwright-based automation framework designed to test the website. It uses Java as the programming language, TestNG as the test runner, and Maven as the build tool.
 
 ## Prerequisites
 
@@ -29,7 +29,7 @@ This project is a Playwright-based automation framework designed to test the Mer
 
 ## Running the Tests
 
-1. **Clone the repository:** `git clone <repository_url>`
+1. **Clone the repository:** `git clone https://github.com/gulraizshah459/PlaywrightJava.git`
 2. **Navigate to the project directory:** `cd <project_directory>`
 3. **Execute the tests:** `mvn clean test`
 
